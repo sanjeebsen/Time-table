@@ -2,8 +2,8 @@ table {
     background-color: aquamarine;
     color: blue;
     border: 5PX solid #0c0c0c;
-    padding: 40px;
+    padding: 40px 10px 40px 10px;
     width: auto;
     height: auto;
-    margin: 50px;
+    margin: 50px 50px;
 
